@@ -30,6 +30,9 @@
 namespace apollo {
 namespace cyber {
 namespace base {
+/*
+*有界队列类
+*/
 
 template <typename T>
 class BoundedQueue {
